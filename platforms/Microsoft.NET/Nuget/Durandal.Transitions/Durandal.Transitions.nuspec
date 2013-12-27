@@ -1,23 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>Durandal.Transitions</id>
-        <version>2.0.1</version>
+        <id>ProvenStyle.Durandal.Transitions</id>
+        <version>0.0.3</version>
         <title>Durandal Transitions</title>
-        <authors>Rob Eisenberg,John Papa</authors>
-        <owners>EisenbergEffect</owners>
+        <authors>Michael Dudley</authors>
+        <owners>Michael Dudley</owners>
         <licenseUrl>https://raw.github.com/BlueSpire/Durandal/master/License.txt</licenseUrl>
-        <projectUrl>http://www.durandaljs.com</projectUrl>
+        <projectUrl>https://github.com/provenstyle/Durandal</projectUrl>
         <iconUrl>http://durandaljs.com/images/icon_128.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Durandal is a cross-device, cross-platform client framework written in JavaScript and designed to make Single Page Applications (SPAs) easy to create and maintain. We've used it to build apps for PC, Mac, Linux, iOS and Android...and now it's your turn...
+        <description>
+          This packages adds bootstrap 3 support to the Durandal StarterKit written by Rob Eisenberg.
+          Built using Durandal 2.0.1
+          -------------------------------------------------------------------------------------------
+          Durandal is a cross-device, cross-platform client framework written in JavaScript and designed to make Single Page Applications (SPAs) easy to create and maintain. We've used it to build apps for PC, Mac, Linux, iOS and Android...and now it's your turn...
 
-This is a collection of transitions designed to work with Durandal's composition system.</description>
+          This is a collection of transitions designed to work with Durandal's composition system.</description>
         <summary>This is a collection of transitions designed to work with Durandal's composition system.</summary>
-        <copyright>Copyright (c) 2012 Blue Spire Consulting, Inc.</copyright>
+        <copyright>Copyright (c) 2013 ProvenStyle</copyright>
         <tags>JavaScript JS Durandal HTML CSS MVC MVVM MVP Web SPA RIA Knockout RequireJS jQuery Transitions</tags>
         <dependencies>
-            <dependency id="Durandal" version="2.0.1" />
+            <dependency id="ProvenStyle.Durandal" version="0.0.3" />
         </dependencies>
     </metadata>
     <files>
