@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>ProvenStyle.Durandal.StarterKit</id>
-        <version>0.0.2</version>
+        <version>0.0.3</version>
         <title>Durandal StarterKit With Bootstrap 3</title>
         <authors>Michael Dudley</authors>
         <owners>Michael Dudley</owners>
@@ -19,13 +19,13 @@ Built using Durandal 2.0.1
 
           This is a starter kit for durandal-based projects.</description>
         <summary>This is a starter kit for durandal-based projects.</summary>
-        <copyright>Copyright (c) 2012 Blue Spire Consulting, Inc.</copyright>
+        <copyright>Copyright (c) 2013 ProvenStyle</copyright>
         <tags>JavaScript JS Durandal HTML CSS MVC MVVM MVP Web SPA RIA Knockout RequireJS jQuery SammyJS Navigation Router</tags>
         <dependencies>
             <dependency id="Microsoft.AspNet.Web.Optimization" version="1.0.0" />
             <dependency id="WebActivator" version="1.5.3" />
             <dependency id="Twitter.Bootstrap" version="3.0.1.1" />
-            <dependency id="ProvenStyle.Durandal" version="0.0.2" />
+            <dependency id="ProvenStyle.Durandal" version="0.0.3" />
             <dependency id="Durandal.Transitions" version="2.0.1" />
         </dependencies>
     </metadata>
