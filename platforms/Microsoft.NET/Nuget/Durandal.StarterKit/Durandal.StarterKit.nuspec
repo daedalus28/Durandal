@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>ProvenStyle.Durandal.StarterKit</id>
-        <version>0.0.8</version>
+        <version>0.0.10</version>
         <title>Durandal StarterKit With Bootstrap 3 - </title>
         <authors>Michael Dudley</authors>
         <owners>Michael Dudley</owners>
@@ -31,8 +31,11 @@ Built using Durandal 2.0.1
         </dependencies>
     </metadata>
     <files>
+        <file src="content\App\viewmodels\flickr.js" target="content\App\viewmodels\flickr.js" />
         <file src="content\App\viewmodels\shell.js" target="content\App\viewmodels\shell.js" />
         <file src="content\App\viewmodels\welcome.js" target="content\App\viewmodels\welcome.js" />
+        <file src="content\App\views\detail.html" target="content\App\views\detail.html" />
+        <file src="content\App\views\flickr.html" target="content\App\views\flickr.html" />
         <file src="content\App\views\shell.html" target="content\App\views\shell.html" />
         <file src="content\App\views\welcome.html" target="content\App\views\welcome.html" />
         <file src="content\App\main.js" target="content\App\main.js" />
