@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>ProvenStyle.Durandal.StarterKit</id>
-        <version>0.0.3</version>
-        <title>Durandal StarterKit With Bootstrap 3</title>
+        <version>0.0.8</version>
+        <title>Durandal StarterKit With Bootstrap 3 - </title>
         <authors>Michael Dudley</authors>
         <owners>Michael Dudley</owners>
         <licenseUrl>https://raw.github.com/BlueSpire/Durandal/master/License.txt</licenseUrl>
@@ -25,8 +25,9 @@ Built using Durandal 2.0.1
             <dependency id="Microsoft.AspNet.Web.Optimization" version="1.0.0" />
             <dependency id="WebActivator" version="1.5.3" />
             <dependency id="Twitter.Bootstrap" version="3.0.1.1" />
-            <dependency id="ProvenStyle.Durandal" version="0.0.3" />
-            <dependency id="ProvenStyle.Durandal.Transitions" version="0.0.3" />
+            <dependency id="FontAwesome" version="4.0.3.1" />
+            <dependency id="ProvenStyle.Durandal" version="0.0.7" />
+            <dependency id="ProvenStyle.Durandal.Transitions" version="0.0.7" />
         </dependencies>
     </metadata>
     <files>

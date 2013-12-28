@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>ProvenStyle.Durandal.Transitions</id>
-        <version>0.0.3</version>
-        <title>Durandal Transitions</title>
+        <version>0.0.7</version>
+        <title>Durandal Transitions With Bootstrap 3 - </title>
         <authors>Michael Dudley</authors>
         <owners>Michael Dudley</owners>
         <licenseUrl>https://raw.github.com/BlueSpire/Durandal/master/License.txt</licenseUrl>
@@ -21,7 +21,7 @@
         <copyright>Copyright (c) 2013 ProvenStyle</copyright>
         <tags>JavaScript JS Durandal HTML CSS MVC MVVM MVP Web SPA RIA Knockout RequireJS jQuery Transitions</tags>
         <dependencies>
-            <dependency id="ProvenStyle.Durandal" version="0.0.3" />
+            <dependency id="ProvenStyle.Durandal" version="0.0.7" />
         </dependencies>
     </metadata>
     <files>
